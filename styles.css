@@ -83,7 +83,7 @@ body{
 }
 
 .card__upper{
-    background-image: url("images/bg-pattern-card.svg");
+    background-image: url("../images/bg-pattern-card.svg");
     height: 37.3%;
     width: 100%;
     position: relative;
